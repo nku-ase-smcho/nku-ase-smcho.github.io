@@ -1,7 +1,7 @@
 [
     {
         "id": 0,
-        "image": "https://nku-ase-smcho.github.io/app/img0.jpg",
+        "image": "https://nku-ase-smcho.github.io/app/tiger.jpg",
         "likes": 5,
         "date": "July 25",
         "content": "A",
@@ -10,20 +10,11 @@
     },
     {
         "id": 1,
-        "image": "https://nku-ase-smcho.github.io/app/img1.jpg",
+        "image": "https://nku-ase-smcho.github.io/app/lion.jpg",
         "likes": 22,
         "date": "Aug 3",
         "content": "B",
         "liked": false,
         "user": "Hilton_m"
-    },
-    {
-        "id": 2,
-        "image": "https://nku-ase-smcho.github.io/app/img2.jpg",
-        "likes": 10,
-        "date": "Nov 30",
-        "content": "C",
-        "liked": false,
-        "user": "rimvely1"
     }
 ]
